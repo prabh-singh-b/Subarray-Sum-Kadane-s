@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15842887-482d-46e8-a0a3-670b8bb43f82": {
+      "ProjectGuid": "15842887-482d-46e8-a0a3-670b8bb43f82",
+      "DisplayName": "Sum Of SubArray(Kadane's Algo)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
